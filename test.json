@@ -1,4 +1,6 @@
-{
-	"username" : "SwertyResty",
-	"type" : 1
-}
+var obj = [
+    {
+        username : "SwertyResty",
+        type : 1
+    }
+]
