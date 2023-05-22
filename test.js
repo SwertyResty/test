@@ -1,6 +1,6 @@
 var obj = [
     {
-        username : "SwertyResty",
+        username : "SwertyResty2",
         type : 1
     }
 ]
